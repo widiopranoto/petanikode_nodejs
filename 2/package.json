@@ -1,0 +1,17 @@
+{
+  "name": "belajar-npm",
+  "version": "1.0.0",
+  "description": "belajar npm donk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "echo \"sugeng enjang\"",
+    "server": "node index.js"
+  },
+  "keywords": [
+    "widiopranoto"
+  ],
+  "author": "widiopranoto",
+  "license": "ISC",
+  "dependencies": {}
+}
